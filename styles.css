@@ -1,6 +1,6 @@
 *, *::before, *::after {
   box-sizing: border-box;
-  font-family: Gotham Rounded;
+  font-family: Source Sans Pro;
 }
 
 body {
@@ -15,7 +15,7 @@ body {
 }
 
 .container {
-  width: 1000px;
+  width: 800px;
   max-width: 80%;
   background-color: white;
   padding: 10px;
